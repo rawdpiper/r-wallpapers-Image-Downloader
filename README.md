@@ -2,8 +2,8 @@
 Python Script that downloads Images from r/wallpapers subreddit in descending order of most upvoted
 
 ## Requirements
--Python 3.x
--Requests
+- Python 3.x
+- Requests
 
 ## Installation
 1. Download and install the latest Python 3.x version from the official Python website or [here](https://www.python.org/downloads/) and to make sure to tick **"Add Python 3.x to PATH"** checkbox when installing
