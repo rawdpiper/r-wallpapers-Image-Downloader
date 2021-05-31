@@ -3,6 +3,7 @@ Python Script that downloads Images from r/wallpapers subreddit in descending or
 
 ## Requirements
 - Python 3.x
+- praw
 - Requests
 
 ## Installation
